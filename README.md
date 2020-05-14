@@ -9,9 +9,9 @@ This project will require you to use inverse dataflow and declarative state upda
 
 ### Deliverables
 * As a user, I should be able to:
-    * **Read** a list of poems
-    * **Create** a new poem
-    * **Delete** an existing poem
+   DONE * **Read** a list of poems
+   DONE * **Create** a new poem
+   DONE * **Delete** an existing poem
     * **Update** the content of an existing poem
     
 ### Tips on Inverse Dataflow
